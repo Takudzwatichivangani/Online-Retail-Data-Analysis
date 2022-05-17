@@ -1,9 +1,5 @@
 # Online-Retail-Data-Analysis
-This Repo contains a Data Analysis Project for an Online Retail company.
-# Online Retail Data Analysis
-
-This Repo contains a notebook and 2 Power BI files in which some data analytics for an Online Retail company are compiled. 
-
+This Repo contains a Data Analysis Project for an Online Retail company which consists of a notebook and 2 Power BI files in which some data analytics are compiled. 
 
 ## Dataset Description and Source
 The following is a project for data analytics for an Online Retail Company which is involved in selling a different number of products. This project turns to open up hidden information and insights of the company so that we can make decisions and predict the future of the company.
@@ -30,7 +26,7 @@ https://www.kaggle.com/datasets/coldperformer/online-retail-data-v3
 - Lastly we created an interactive Dashboard using Power BI for a better perspective so that the user can understand whats the data is saying.
 ## 
 
-![Loading dataset](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Dashboard]((https://github.com/Takudzwatichivangani/Online-Retail-Data-Analysis/blob/main/images/Dashboard.png))
 
 ## Tools and Frameworks
 
