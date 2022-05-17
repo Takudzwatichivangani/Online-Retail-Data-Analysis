@@ -1,0 +1,9 @@
+﻿Feature,Description
+Bill,A 6 digit unique bill number assigned to each transaction.
+MerchandiseID,A unique number assigned to each distinct product.
+Product,Name of the Product.
+Quota,Quantity of each product per transaction.
+BillDate,Billing Date of transaction .
+Amount,Product price per unit.
+CustomerID,A 5 digit unique number assigned to each customer.
+Country,Name of the country where customer resides.
