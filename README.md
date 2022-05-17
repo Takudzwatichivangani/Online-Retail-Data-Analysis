@@ -26,7 +26,7 @@ https://www.kaggle.com/datasets/coldperformer/online-retail-data-v3
 - Lastly we created an interactive Dashboard using Power BI for a better perspective so that the user can understand whats the data is saying.
 ## 
 
-![Dashboard]((https://github.com/Takudzwatichivangani/Online-Retail-Data-Analysis/blob/main/images/Dashboard.png))
+![Dashboard](https://github.com/Takudzwatichivangani/Online-Retail-Data-Analysis/blob/main/images/Dashboard.png)
 
 ## Tools and Frameworks
 
