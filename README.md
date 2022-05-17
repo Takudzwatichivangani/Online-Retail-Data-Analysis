@@ -21,7 +21,7 @@ https://www.kaggle.com/datasets/coldperformer/online-retail-data-v3
 
 ## Flow of the project
 
-- Fisrt section of the code was data preparation and data cleaning so that we can feed good and clean data.
+- First section of the code was data preparation and data cleaning so that we can feed good and clean data.
 - The second step is EDA and data visualization and we will inspect the cleaned data for useful information.
 - Lastly we created an interactive Dashboard using Power BI for a better perspective so that the user can understand whats the data is saying.
 ## 
